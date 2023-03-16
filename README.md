@@ -13,11 +13,3 @@ Flask:
 ```
   pip install flask
 ```
-Flaskext
-```
-  pip install Flask-MySQL
-```
-Pymysql
-```
-  pip install pymysql
-```
